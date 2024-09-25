@@ -70,8 +70,13 @@ assemble. Hopefully it is pretty intuitive, but
 here is a step-by-step guide.
 
 1. Mount the pigtail connector. ![1st angle](./img/antenna-mount-1.jpg) ![2nd angle](./img/antenna-mount-2.jpg)
-2. Attach the stub antenna. ![stub antenna](./img/attach-antenna.jpg)
+2. __Attach the stub antenna.__ Make sure to do this before attaching the battery. ![stub antenna](./img/attach-antenna.jpg)
 3. Insert and attach the battery. ![battery](./img/place-and-attach-battery.jpg)
 4. Place the T114 board in the case. ![insert at angle](./img/insert-t114-into-usbc-hole.jpg) ![press down](./img/place-t114.jpg)
 5. Screw the two halves together. ![screw](./img/screw.jpg) ![finished](./img/screw-hole.jpg)
 
+## Final Product
+
+![final front](./img/final-front.jpg)
+
+![final back](./img/final-back.jpg)
