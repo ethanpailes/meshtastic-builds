@@ -35,6 +35,8 @@ with the T114 board, so there is no need to buy them
 separately (though your mileage may vary when sourcing
 from somewhere else).
 
+The case parts can be printed from [the onshape project](https://cad.onshape.com/documents/fd3b9fa8cad9837d18ff8d54/w/1e6906b8b7d6d1deb327ab02/e/b1a6794dc717c3e66f6d45d0)
+
 ## Case
 
 My intention had been to use the H2T case designs
